@@ -1,2 +1,22 @@
 # jorgang8.github.io
-Grace hopper info web
+
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Grace Hopper info web</title>
+    <link rel="stylesheet" href="opmaakgrace.css">
+    <link rel="sidebar" href="gracebio.asp">
+    <link rel="stylesheet" href="gracebekend">
+  </head>
+  <body>
+   <h1><strong>Grace hopper</strong></h1>
+   <img src="grace-hopper-1.png" width="350" height="300" alt="">
+   <ul>
+  <h1><li><a href="gracebio.html">Biografie</a></li></h1>
+  <h1><li><a href="gracebekend.html">Bekend door</a></li></h1>
+  <h1><li><a href="gracefilmpje.html">Filmpje</a></li></h1>
+   <h1><li><a href="contact.html">Contact</a></li></h1>
+  </ul>
+  </body>
+</html>
