@@ -1,0 +1,25 @@
+body{
+
+background-image: url("ruimte.jpg");
+background-size: cover;
+background-repeat: no-repeat;
+background-attachment: fixed;
+
+
+
+}
+h1{
+  font-family: sans-serif;
+  color: white;
+}
+image{
+  border: 5px;
+  border-color: red;
+}
+ul{
+  border-color: red;
+  border: 1px
+}
+a{
+  color: red;
+}
